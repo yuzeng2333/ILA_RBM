@@ -1,10 +1,7 @@
-# ILA project template
+# Verilog
 
-To initialize the project with your customized name, run:
+The surce code for Verilog is in the sub-directory: verilog
 
-```bash
-python3 script/init.py <project_name>
-```
+# Contact
 
-This will generate the template ILA project. 
-The directory `template` can be removed afterward.
+If you have questions, please contact Yu Zeng yuzeng@princeton.edu
